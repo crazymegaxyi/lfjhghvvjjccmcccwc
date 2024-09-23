@@ -1,0 +1,7 @@
+python-telegram-bot
+nest-asyncio
+logging
+re
+collections
+time
+asyncio
